@@ -8,6 +8,7 @@ An archive of resources which were helpful in projects, research or just for a g
 * [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
 * [Hands-on Tutorial for GCN using PyGeometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)
 * [FastGCN in PyTorch](https://github.com/Gkunnan97/FastGCN_pytorch/tree/7f7c1b56534d4ebdf416aeafa0ed4b8cead88ffd)
+* [Deep Learning on Graph Literature by MILA Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 * [Deep Learning on Graph literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 * [ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks (WORDGCN) by Mall LAB @ IISc](https://github.com/malllabiisc/WordGCN)
 * [Open Graph Benchmark by Stanford University](https://ogb.stanford.edu/)
@@ -28,6 +29,14 @@ An archive of resources which were helpful in projects, research or just for a g
 
 
 ### KG
+* [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 * [Graphvite pre-trained KG representation](https://graphvite.io/docs/latest/pretrained_model)
 * [KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation](https://arxiv.org/abs/1911.06136)
 * [CS 250 by Stanford University](https://web.stanford.edu/class/cs520/)
+* [DBPedia Spotlight Demo](https://www.dbpedia-spotlight.org/demo/)
+* [DBPedia Spotlight API](https://www.dbpedia-spotlight.org/api)
+* [ConceptNet](http://conceptnet.io/)
+
+### Recommendation System
+* [Graph based Recommendation System by MILA Graph](https://github.com/DeepGraphLearning/RecommenderSystems)
+
