@@ -13,3 +13,5 @@ An archive of resources which were helpful in projects, research or just for a g
 * [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
 
 * [Hands-on Tutorial for GCN using PyGeometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)
+
+* [Open Graph Benchmark by Stanford University](https://ogb.stanford.edu/)
