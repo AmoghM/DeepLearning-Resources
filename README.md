@@ -15,6 +15,7 @@ An archive of resources which were helpful in projects, research or just for a g
 
 ### NLP
  * [Top-down understanding of BERT](https://skok.ai/2020/05/11/Top-Down-Introduction-to-BERT.html)
+ * [Transformer summary](https://huggingface.co/transformers/summary.html)
  * [Transformer example notebooks](https://huggingface.co/transformers/examples.html)
  * [Blender: Facebook AI work on Chatbot](https://parl.ai/projects/recipes/)
  * [WanDB-AllenNLP](https://pypi.org/project/wandb-allennlp/)
