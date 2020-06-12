@@ -1,4 +1,6 @@
-### Repo-Explored
+
+
+### Knowledge Graphs
 An archive of resources which were helpful in projects, research or just for a good read. <br><br>
 [ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks (SynGCN) by Mall LAB @ IISc](https://github.com/malllabiisc/WordGCN)
 
