@@ -1,9 +1,13 @@
 
 
-### Knowledge Graphs
+### Graph Neural Network
 An archive of resources which were helpful in projects, research or just for a good read. <br><br>
-[ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks (SynGCN) by Mall LAB @ IISc](https://github.com/malllabiisc/WordGCN)
+* [Deep Learning on Graph literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 
-[EMNP 2019: Tutorial on Graph Neural Network by Mall LAB @ IISc](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
+* [ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks (WORDGCN) by Mall LAB @ IISc](https://github.com/malllabiisc/WordGCN)
 
-[EMNLP 2019: GNN for NLP by Mall LAB @ IISc](https://github.com/svjan5/GNNs-for-NLP)
+* [EMNP 2019: Tutorial on Graph Neural Network by Mall LAB @ IISc](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
+
+* [EMNLP 2019: GNN for NLP by Mall LAB @ IISc](https://github.com/svjan5/GNNs-for-NLP)
+
+* [Implementation of Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
