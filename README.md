@@ -14,10 +14,14 @@ An archive of resources which were helpful in projects, research or just for a g
 
 
 ### NLP
+ * [Big Bad NLP Database](https://datasets.quantumstat.com/)
  * [Top-down understanding of BERT](https://skok.ai/2020/05/11/Top-Down-Introduction-to-BERT.html)
  * [Transformer summary](https://huggingface.co/transformers/summary.html)
  * [Transformer example notebooks](https://huggingface.co/transformers/examples.html)
+ * [Comparative demo of transformer as a service](https://github.com/renatoviolin/next_word_prediction)
+ * [Fine-tuning T5 colab notebook](https://colab.research.google.com/github/patil-suraj/exploring-T5/blob/master/T5_on_TPU.ipynb)
  * [Blender: Facebook AI work on Chatbot](https://parl.ai/projects/recipes/)
+ * [BLINK: An entity linker by Facebook AI](https://github.com/facebookresearch/BLINK)
  * [WanDB-AllenNLP](https://pypi.org/project/wandb-allennlp/)
  * [Subjectivity Classifier](https://github.com/fractalego/subjectivity_classifier)
  * [Text-to-Speech by using WaveRNN](https://as-ideas.github.io/TransformerTTS/)
