@@ -12,7 +12,7 @@ An archive of resources which were helpful in projects, research or just for a g
 
 * [Hands-on Tutorial for GCN using PyGeometric](https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8)
 
-* [FastGCN](https://github.com/Gkunnan97/FastGCN_pytorch/tree/7f7c1b56534d4ebdf416aeafa0ed4b8cead88ffd)
+* [FastGCN in PyTorch](https://github.com/Gkunnan97/FastGCN_pytorch/tree/7f7c1b56534d4ebdf416aeafa0ed4b8cead88ffd)
 
 * [Deep Learning on Graph literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 
