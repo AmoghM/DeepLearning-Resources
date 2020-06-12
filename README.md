@@ -2,6 +2,8 @@
 
 ### Graph Neural Network
 An archive of resources which were helpful in projects, research or just for a good read. <br><br>
+* [Lecture on Graph Neural Network by Matthias Fey (creator of PyTorch Geometric)](http://rusty1s.github.io/rrl_gnn_2019.pdf)
+
 * [Deep Learning on Graph literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 
 * [ACL 2019: Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks (WORDGCN) by Mall LAB @ IISc](https://github.com/malllabiisc/WordGCN)
