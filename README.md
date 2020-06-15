@@ -40,3 +40,6 @@ An archive of resources which were helpful in projects, research or just for a g
 ### Recommendation System
 * [Graph based Recommendation System by MILA Graph](https://github.com/DeepGraphLearning/RecommenderSystems)
 
+
+### Off-the-shelf solutions
+* [Multitask NLP by Haptik](https://github.com/hellohaptik/multi-task-NLP)
