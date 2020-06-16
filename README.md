@@ -40,6 +40,10 @@ An archive of resources which were helpful in projects, research or just for a g
 ### Recommendation System
 * [Graph based Recommendation System by MILA Graph](https://github.com/DeepGraphLearning/RecommenderSystems)
 
+### Hate Speech / Aggression data
+* [Hinglish Offensive Text Classification](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification)
+* [Facebook Post Aggression Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
+* [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2019/dataset.html)
 
 ### Off-the-shelf solutions
 * [Multitask NLP by Haptik](https://github.com/hellohaptik/multi-task-NLP)
