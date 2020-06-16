@@ -26,7 +26,8 @@ An archive of resources which were helpful in projects, research or just for a g
  * [WanDB-AllenNLP](https://pypi.org/project/wandb-allennlp/)
  * [Subjectivity Classifier](https://github.com/fractalego/subjectivity_classifier)
  * [Text-to-Speech by using WaveRNN](https://as-ideas.github.io/TransformerTTS/)
-
+ * [SentenceBERT](https://github.com/UKPLab/sentence-transformers)
+ * [LongFormer](https://arxiv.org/abs/2004.05150)
 
 ### KG
 * [RotatE](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
