@@ -2,6 +2,7 @@
 
 ### Graph Neural Network
 An archive of resources which were helpful in projects, research or just for a good read. <br><br>
+* [GCN Explanation by Thomas Kipf](http://tkipf.github.io/graph-convolutional-networks/)
 * [Lecture on Graph Neural Network by Matthias Fey (creator of PyTorch Geometric)](http://rusty1s.github.io/rrl_gnn_2019.pdf)
 * [EMNP 2019: Tutorial on Graph Neural Network by Mall LAB @ IISc](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)
 * [EMNLP 2019: GNN for NLP by Mall LAB @ IISc](https://github.com/svjan5/GNNs-for-NLP)
