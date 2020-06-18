@@ -45,6 +45,9 @@ An archive of resources which were helpful in projects, research or just for a g
 * [Hinglish Offensive Text Classification](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification)
 * [Facebook Post Aggression Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
 * [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2019/dataset.html)
+* [Wiki-Detox](https://github.com/ewulczyn/wiki-detox)
+* [Perspective AI (part of conversational ai of Google)](https://conversationai.github.io/)
+* [Aggregration of hate speech data](http://hatespeechdata.com/)
 
 ### Off-the-shelf solutions
 * [Multitask NLP by Haptik](https://github.com/hellohaptik/multi-task-NLP)
